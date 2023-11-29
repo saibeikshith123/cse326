@@ -1,0 +1,50 @@
+h2{
+    margin:70px;
+    font-size: 30px;
+}
+p{margin-left:200px;
+margin-right:200px;
+font-size: 30px;
+}
+.add{
+    background-color:aqua;
+    margin-left:200px;
+    margin-right:200px;
+    padding:20px;   
+}
+.text{
+text-align: center;
+font-size: 30px;
+background-color: aqua;
+
+}
+body{
+    background-color: whitesmoke;
+}
+.text{
+    font-size: 30px;
+}
+.add:hover{
+    size: 50px;
+}
+#head{
+    margin-top: 10px;
+    margin: 70px;
+}#book{
+    font-size: 30px;
+   background-color: aqua;
+   padding-bottom: 1px;
+
+}.to{ margin-left: 1300px;
+    background-color: rgb(140, 127, 255);
+    font-size: 30px;
+    border-radius: 25px;
+    border: 2px solid black;
+
+}a{text-decoration: none;
+
+}
+
+
+
+

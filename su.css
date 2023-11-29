@@ -1,0 +1,22 @@
+body{ 
+    background-image: url("file.j.avif");
+    background-attachment: fixed;
+    background-repeat: none;
+    background-size: cover;
+}
+h5{
+    margin: 300px;
+    font-size: 20px;    
+    margin-left: 500px;
+    margin-right:550px;
+    border: 2px solid rgb(0, 0, 0);
+    outline: 10px solid rgb(57, 199, 221);
+    
+    background-color: rgb(147, 235, 106) ;
+    background-attachment: fixed;
+    padding: 50px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-left: 30px;
+
+}
